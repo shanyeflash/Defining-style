@@ -162,7 +162,7 @@ A：请确保已为样式上传预览图，且图片格式为PNG。
 本说明书适用于插件版本：1.0
 更新日期：2023年10月
 
-加入在WEBUI 简单的安装说明  这给扩展地址 https://github.com/shanyeflash/wangc.git  并做成EDIT格式内容
+加入在WEBUI 简单的安装说明  这给扩展地址https://github.com/shanyeflash/Defining-style.git并做成EDIT格式内容
 markdown  降价
 # Stable Diffusion WEBUI 样式选择器插件使用说明书
 
@@ -176,7 +176,7 @@ markdown  降价
 1. 打开Stable Diffusion WEBUI
 2. 切换到"Extensions"标签页
 3. 选择"Install from URL"子标签
-4. 在URL输入框中填入：`https://github.com/shanyeflash/wangc.git`
+4. 在URL输入框中填入：`https://github.com/shanyeflash/Defining-style.git`
 5. 点击"Install"按钮
 6. 安装完成后重启WEBUI
 
@@ -184,7 +184,7 @@ markdown  降价
 1. 克隆仓库到extensions目录：
    ```bash
    cd stable-diffusion-webui/extensions
-   git clone https://github.com/shanyeflash/wangc.git
+   git clone https://github.com/shanyeflash/Defining-style.git
 重启WEBUI
 
 三、基本使用步骤
