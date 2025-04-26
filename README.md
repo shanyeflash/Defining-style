@@ -1,6 +1,6 @@
 # wangc
 Defining style
-Stable Diffusion WEBUI 样式选择器插件使用说明书
+Stable Diffusion WEBUI 样式选择器插件使用说明书（ 本人做插画 艺术设计 玩具等设计工作，有兴趣交流可以联系我。邮箱：yanjiousuo@qq.com ）
 一、插件简介
 "🎨 样式选择器"是一款专为Stable Diffusion WEBUI设计的扩展插件，它提供了强大的样式管理和应用功能，帮助用户更高效地组织和应用各种提示词模板。
 
