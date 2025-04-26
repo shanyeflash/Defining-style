@@ -159,11 +159,6 @@ A：请确保已为样式上传预览图，且图片格式为PNG。
 八、技术支持
 如有任何使用问题或建议，请联系插件开发者或访问插件GitHub页面获取最新信息。
 
-本说明书适用于插件版本：1.0
-更新日期：2023年10月
-
-加入在WEBUI 简单的安装说明  这给扩展地址https://github.com/shanyeflash/Defining-style.git并做成EDIT格式内容
-markdown  降价
 # Stable Diffusion WEBUI 样式选择器插件使用说明书
 
 ## 一、插件简介
