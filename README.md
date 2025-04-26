@@ -24,6 +24,7 @@ Stable Diffusion WEBUI 样式选择器插件使用说明书
 环境 ：Python 3.7+
 
 硬件：无特殊要求
+<img src="https://raw.githubusercontent.com/shanyeflash/Defining-style/refs/heads/main/MGTV/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-26%20130216.jpg" alt="示例图片">
 
 三、安装方法
 将插件文件夹放置在Stable Diffusion WEBUI的extensions目录下
